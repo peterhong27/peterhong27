@@ -1,1 +1,0 @@
-python tools/test_lanenet.py --weights_path ./lanenet_model/New_Tusimple_Lanenet_Model_Weights/tusimple_lanenet_vgg.ckpt --image_path ./data/tusimple_test_image/p2.jpg
